@@ -1,0 +1,116 @@
+<mxfile host="app.diagrams.net" modified="2024-05-02T17:16:31.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="v37v4C2zuXRMCjOnRRqd" version="23.1.5" type="device">
+  <diagram name="Pagina-1" id="k35CXIKmadvxX29RweP0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OWYniaA7-gqYdbku3fR6-5" value="Fase iniziale" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="460" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-5">
+          <mxGeometry x="20" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-5">
+          <mxGeometry x="315" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-5">
+          <mxGeometry x="170" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-11" value="Prima fase di esamina" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-5">
+          <mxGeometry x="35" y="95" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-12" value="individuazione scopo&lt;br&gt;della SLR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-5">
+          <mxGeometry x="175" y="95" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-13" value="Individuazione degli obbiettivi e delle RQ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-5">
+          <mxGeometry x="324" y="95" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWYniaA7-gqYdbku3fR6-23" target="OWYniaA7-gqYdbku3fR6-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-23" value="Fase di ricerca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="OWYniaA7-gqYdbku3fR6-23" source="OWYniaA7-gqYdbku3fR6-24" target="OWYniaA7-gqYdbku3fR6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-23">
+          <mxGeometry x="10" y="55" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-23">
+          <mxGeometry x="160" y="55" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-32" value="Selezione di dati" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-23">
+          <mxGeometry x="45" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-33" value="Definizione delle stringhe di ricerca" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-23">
+          <mxGeometry x="180" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.277;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OWYniaA7-gqYdbku3fR6-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="230" />
+              <mxPoint x="410" y="250" />
+              <mxPoint x="113" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWYniaA7-gqYdbku3fR6-34" target="OWYniaA7-gqYdbku3fR6-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-34" value="&amp;nbsp;Fase di selezione ed estrazione dei dati" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OWYniaA7-gqYdbku3fR6-34" source="OWYniaA7-gqYdbku3fR6-35" target="OWYniaA7-gqYdbku3fR6-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-34">
+          <mxGeometry x="10" y="55" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-37" value="Selezione degli articoli" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-34">
+          <mxGeometry x="22.5" y="70" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-34">
+          <mxGeometry x="130" y="55" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-46" value="Estrazione dei dati" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-34">
+          <mxGeometry x="155" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OWYniaA7-gqYdbku3fR6-40" target="OWYniaA7-gqYdbku3fR6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-40" value="Fase di analisi dei dati" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OWYniaA7-gqYdbku3fR6-40" source="OWYniaA7-gqYdbku3fR6-41" target="OWYniaA7-gqYdbku3fR6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-40">
+          <mxGeometry x="20" y="50" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-42" value="Sintesi&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-40">
+          <mxGeometry x="47.5" y="57.5" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-50" value="Analisi delle tematiche" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-40">
+          <mxGeometry x="20" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-54" value="Fase di reporting" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OWYniaA7-gqYdbku3fR6-54" source="OWYniaA7-gqYdbku3fR6-56" target="OWYniaA7-gqYdbku3fR6-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-54">
+          <mxGeometry x="20" y="42.5" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-57" value="report dei risultati" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-54">
+          <mxGeometry x="47.5" y="50" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWYniaA7-gqYdbku3fR6-58" value="Richiesta di feedback" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="OWYniaA7-gqYdbku3fR6-54">
+          <mxGeometry x="20" y="110" width="130" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
